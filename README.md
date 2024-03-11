@@ -1,4 +1,4 @@
-#Suffolk Crime Analysis during and post-COVID-19 Pandemic (2023)
+# Suffolk Crime Analysis during and post-COVID-19 Pandemic (2023)
 
 ![image](https://github.com/lzam0/UK-Crime-Data-Science-Project/assets/110193626/3d1ebfe4-39ee-425f-a9e8-2e1897e13a95)
 
